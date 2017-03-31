@@ -1,0 +1,2 @@
+CommentExtractor version 0.1
+Copyright (C) 2009-2017 Hirohisa AMAN <aman@computer.org>
